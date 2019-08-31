@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tempat Wisata SumbatraBarat</string>
+    <string name="WisataSumbar_Name">Nama Wisata Sumbar</string>
+    <string name="Location">Lokasi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="tentang_saya">Tentang Saya</string>
+    <string name="favorite">favorite</string>
+    <string name="share">share</string>
+   </resources>
